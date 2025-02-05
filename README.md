@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Dame Abera 
 
-<!--
-**Dame-Abera/Dame-Abera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+I am a passionate Soft Engineering Student AAIT.  
+I have good understanding of Full Stack developempent
+Currently I am Attending G6 Inperson Education At A2SV
 
-Here are some ideas to get you started:
+[![Dames GitHub stats](https://github-readme-stats.vercel.app/api?username=Dame-Abera)](https://github.com/anuraghazra/github-readme-stats)
+### 🔧 Skills & Technologies  
+- 🌐 Frontend: [React, Tailwind CSS, Bootstrap, etc.]  
+- 🛠 Backend: [NestJS, Node.js, Prisma, PostgreSQL, etc.]  
+- 📱 Mobile: [Flutter (beginner)]  
+- ⚙️ Tools: [Visual Studio, VS Code, Yarn]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Projects  
+- 🎓 Developing an LMS platform to teach Ethiopian languages  
+- 💰 Building an office expense tracker web app  
+
+### 📫 Connect with Me  
+- 📧 Email: [your-email@example.com]  
+- 🌍 Portfolio: [your-portfolio-link.com]  
+- 🏢 GitHub: [github.com/your-username]  
