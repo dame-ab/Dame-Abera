@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Dame Abera 
 
 ### 🚀 About Me  
-I am a passionate Soft Engineering Student AAIT.  
-I have good understanding of Full Stack developempent<br>
-Currently I am Attending G6 Inperson Education At A2SV
+🎓 Passionate Software Engineering Student at AAIT<br>
+💡 Full Stack Developer with a strong understanding of web technologies<br>
+📚 Currently Attending G6 In-person Education at A2SV
+
+
 
 
 
