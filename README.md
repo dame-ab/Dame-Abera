@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 I am a passionate Soft Engineering Student AAIT.  
-I have good understanding of Full Stack developempent
+I have good understanding of Full Stack developempent<br>
 Currently I am Attending G6 Inperson Education At A2SV
 
 [![Dames GitHub stats](https://github-readme-stats.vercel.app/api?username=Dame-Abera)](https://github.com/anuraghazra/github-readme-stats)
