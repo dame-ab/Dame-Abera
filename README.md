@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 🎓 Passionate Software Engineering Student at AAIT<br>
-💡 Full Stack Developer with a strong understanding of web technologies<br>
+💡 Full Stack Developer with a strong understanding of web architecture and internals<br>
 📚 Currently Attending G6 In-person Education at A2SV
 
 
