@@ -22,8 +22,7 @@
 
 ## 🛠️ Tech Stack
 
-```md
-<!-- Keep your badge section, just add headers and spacing for clarity -->
+
 
 
 
