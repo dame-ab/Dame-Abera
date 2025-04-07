@@ -1,11 +1,29 @@
-# 👋 Hi, I'm Dame Abera 
+<!-- Banner or GIF -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Dame+Abera;Full+Stack+Web+Developer;Software+Engineering+Student+at+AAIT;Learning+Relentlessly+%F0%9F%8E%93" alt="Typing SVG" />
+</p>
+
+# 👋 Hi, I'm Dame Abera
 
 ### 🚀 About Me  
-🎓 Passionate Software Engineering Student at AAIT<br>
-💡 Full Stack Developer with a strong understanding of web architecture and internals<br>
-📚 Currently Attending G6 In-person Education at A2SV
+🎓 Software Engineering Student @ AAIT (Addis Ababa University)  
+💻 Full Stack Developer with a love for clean architecture & elegant code  
+👨‍💻 A2SV G6 In-person Fellow — sharpening my DSA & problem-solving skills  
+🌍 Passionate about building impactful tools for communities  
 
+---
 
+### 🧠 Current Focus  
+- Mastering **System Design** and **DSA**
+- Deep diving into **NestJS**, **Prisma**, and **React Ecosystem**
+- Building projects that solve real-world problems
+
+---
+
+## 🛠️ Tech Stack
+
+```md
+<!-- Keep your badge section, just add headers and spacing for clarity -->
 
 
 
