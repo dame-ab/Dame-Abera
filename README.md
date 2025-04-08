@@ -20,12 +20,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-
-
-
-
 
 # 💻 Tech Stack:
 ### Skills
