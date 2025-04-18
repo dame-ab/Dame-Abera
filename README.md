@@ -15,6 +15,7 @@
 
 ### 🧠 Current Focus  
 - Mastering **System Design** and **DSA**
+- 
 - Deep diving into **NestJS**, **Prisma**, and **React Ecosystem**
 - Building projects that solve real-world problems
 
