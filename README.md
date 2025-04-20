@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Dame Abera
 
 ### 🚀 About Me  
-🎓 Software Engineering Student @ AAIT (Addis Ababa University)  
+🎓 Software Engineering Student @ AAIT (Addis Ababa University) 
 💻 Full Stack Developer with a love for clean architecture & elegant code  
 👨‍💻 A2SV G6 In-person Fellow — sharpening my DSA & problem-solving skills  
 🌍 Passionate about building impactful tools for communities  
@@ -23,7 +23,7 @@
 
 
 # 💻 Tech Stack:
-### Skills
+
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
