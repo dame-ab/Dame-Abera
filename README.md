@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Dame Abera
 
-### 🚀 About Me  
+###  About Me  
 🎓 Software Engineering Student @ AAIT (Addis Ababa University) 
 💻 Full Stack Developer with a love for clean architecture & elegant code  
 👨‍💻 A2SV In-person Fellow —  where I sharpened my DSA & problem-solving skills  
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 Current Focus  
+###  Current Focus  
 - Mastering **System Design** and **DSA**
 - Deep diving into **NestJS**, **Prisma**, and **React Ecosystem**
 - Building projects that solve real-world problems
@@ -88,6 +88,13 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48" height="48" alt="Docker" style="margin-right: 12px;" />
   </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="48" height="48" alt=".NET" style="margin-right: 12px;" />
+</a>
+<a href="https://angular.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="48" height="48" alt="Angular" style="margin-right: 12px;" />
+</a>
+
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" style="margin-right: 12px;" />
   </a>
