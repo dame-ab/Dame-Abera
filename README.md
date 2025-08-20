@@ -92,7 +92,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="48" height="48" alt=".NET" style="margin-right: 12px;" />
 </a>
 <a href="https://angular.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angular-colored.svg" width="48" height="48" alt="Angular" style="margin-right: 12px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/angular.svg" width="48" height="48" alt="Angular" style="margin-right: 12px;" />
 </a>
 
   <a href="https://www.djangoproject.com/" target="_blank">
