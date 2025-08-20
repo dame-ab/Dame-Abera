@@ -21,7 +21,7 @@
 ---
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 
 <p align="left">
@@ -58,12 +58,13 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" style="margin-right: 12px;" />
   </a>
- <a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" style="margin-right: 12px;" />
+ <a href="https://nextjs.org/docs" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="background:white; border-radius:6px; padding:4px; margin-right: 12px;" />
 </a>
-<a href="https://nextjs.org/docs" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" style="margin-right: 12px;" />
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" style="background:white; border-radius:6px; padding:4px; margin-right: 12px;" />
 </a>
+
 
   </a>
   <a href="https://jquery.com/" target="_blank">
