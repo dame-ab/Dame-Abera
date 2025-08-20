@@ -62,8 +62,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" style="background:white; border-radius:6px; padding:4px; margin-right: 12px;" />
 </a>
 <a href="https://expressjs.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" style="background:white; border-radius:6px; padding:4px; margin-right: 12px;" />
+  <img src="https://i.ibb.co/4YPMbJ7/express-colored.png" width="48" height="48" alt="Express" style="margin-right: 12px;" />
 </a>
+
 
 
   </a>
@@ -76,6 +77,7 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" style="margin-right: 12px;" />
   </a>
+  
   
   <a href="https://docs.nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="48" height="48" alt="NestJS" style="margin-right: 12px;" />
