@@ -58,8 +58,13 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" style="margin-right: 12px;" />
   </a>
-  <a href="https://nextjs.org/docs" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="48" height="48" alt="NextJs" style="margin-right: 12px;" />
+ <a href="https://expressjs.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" style="margin-right: 12px;" />
+</a>
+<a href="https://nextjs.org/docs" target="_blank">
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" style="margin-right: 12px;" />
+</a>
+
   </a>
   <a href="https://jquery.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="48" height="48" alt="JQuery" style="margin-right: 12px;" />
@@ -70,9 +75,7 @@
   <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" style="margin-right: 12px;" />
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="48" height="48" alt="Express" style="margin-right: 12px;" />
-  </a>
+  
   <a href="https://docs.nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="48" height="48" alt="NestJS" style="margin-right: 12px;" />
   </a>
