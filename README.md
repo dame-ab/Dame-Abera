@@ -6,10 +6,11 @@
 # 👋 Hi, I'm Dame Abera
 
 ### About Me  
-🎓 Software Engineer @ AAIT (Addis Ababa University)  
-💻 Full Stack Developer with a love for clean architecture & elegant code  
-👨‍💻 A2SV In-person Fellow — where I sharpened my DSA & problem-solving skills  
-🌍 Building projects that solve real-world problems  
+🎓 Software Engineer at AAIT (Addis Ababa University)  
+💻Full Stack Developer with a focus on clean architecture and elegant code  
+👨‍💻A2SV In-person Fellow, where I sharpened my DSA and problem-solving skills  
+🌍 Building projects that solve real-world problems
+
 ---
 
 # Tech Stack
