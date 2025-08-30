@@ -108,6 +108,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="48" height="48" alt="Django" style="margin-right: 12px;" />
   </a>
 </p>
+# 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Dame-Abera&theme=dracula&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dame-Abera&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
