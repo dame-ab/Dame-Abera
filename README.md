@@ -1,6 +1,6 @@
 <!-- Banner or GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Dame+Abera;Full+Stack+Web+Developer;Software+Engineering+Student+at+AAIT;Learning+Relentlessly+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+There!+I'm+Dame+Abera;Full+Stack+Web+Developer;Software+Engineer+at+AAIT;Learning+Relentlessly+%F0%9F%8E%93" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Dame Abera
